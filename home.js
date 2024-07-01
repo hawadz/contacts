@@ -17,7 +17,7 @@ const Home = ({ navigation }) => {
       <Contact
         navigation={navigation}
         gambar={require('../assets/hawa.jpg')}
-        judul="Hawa"
+        judul="Hawarizmi"
         telpon="085720919231"
         alamat="Alamat Hawa"
         screen_title="About"
