@@ -9,7 +9,7 @@ const Home = ({ navigation }) => {
       <Contact
         navigation={navigation}
         gambar={require('../assets/fadlan.JPG')}
-        judul="Fadlan"
+        judul="Fadlan Fasya"
         telpon="0765535531"
         alamat="Perum Baros"
         screen_title="About"
